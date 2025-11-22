@@ -1,0 +1,272 @@
+[{
+  "_id": {
+    "$oid": "69181b48a9cd87ca78e90a82"
+  },
+  "name": "Dev",
+  "age": 22,
+  "marks": 90
+},
+{
+  "_id": {
+    "$oid": "691822a01446ec8d4c88cf31"
+  },
+  "name": "shetty",
+  "age": 22,
+  "marks": 60
+},
+{
+  "_id": {
+    "$oid": "691daffb02de43c9303ee7c9"
+  },
+  "name": "shetty",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "691db01680c3b73dca7a6ce7"
+  },
+  "name": "shetty",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e8aeb9d127d389052b00"
+  },
+  "name": "mindri",
+  "age": 22,
+  "marks": 60
+},
+{
+  "_id": {
+    "$oid": "6921e8aeb9d127d389052b01"
+  },
+  "name": "mysure",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e8afb9d127d389052b02"
+  },
+  "name": "vinod",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e8afb9d127d389052b03"
+  },
+  "name": "srikanth",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e8afb9d127d389052b04"
+  },
+  "name": "tagore",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e8afb9d127d389052b05"
+  },
+  "name": "lal",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e8b0b9d127d389052b06"
+  },
+  "name": "pal",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e8b1b9d127d389052b07"
+  },
+  "name": "queen",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e8b1b9d127d389052b08"
+  },
+  "name": "king",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e8b1b9d127d389052b09"
+  },
+  "name": "minister",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e8b1b9d127d389052b0a"
+  },
+  "name": "mindri",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92a6b0b457c806f1095"
+  },
+  "name": "mindri",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92b6b0b457c806f1096"
+  },
+  "name": "mysure",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92b6b0b457c806f1097"
+  },
+  "name": "vinod",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92b6b0b457c806f1098"
+  },
+  "name": "srikanth",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92c6b0b457c806f1099"
+  },
+  "name": "tagore",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92c6b0b457c806f109a"
+  },
+  "name": "lal",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92c6b0b457c806f109b"
+  },
+  "name": "pal",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92c6b0b457c806f109c"
+  },
+  "name": "queen",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92d6b0b457c806f109d"
+  },
+  "name": "king",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92d6b0b457c806f109e"
+  },
+  "name": "minister",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92d6b0b457c806f109f"
+  },
+  "name": "mindri",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92e6b0b457c806f10a0"
+  },
+  "name": "mysure",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92e6b0b457c806f10a1"
+  },
+  "name": "vinod",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92e6b0b457c806f10a2"
+  },
+  "name": "srikanth",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e92f6b0b457c806f10a3"
+  },
+  "name": "tagore",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e9306b0b457c806f10a4"
+  },
+  "name": "lal",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e9306b0b457c806f10a5"
+  },
+  "name": "pal",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e9306b0b457c806f10a6"
+  },
+  "name": "queen",
+  "age": 22,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "6921e9306b0b457c806f10a7"
+  },
+  "name": "king",
+  "age": 22,
+  "marks": 88
+}]
